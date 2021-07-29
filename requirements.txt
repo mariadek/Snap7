@@ -1,0 +1,2 @@
+geojson >= 2
+geomet
